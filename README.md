@@ -1,4 +1,4 @@
-# Coffee Beans Processing Optimization using Value Stream Mapping (Lean Methodology)
+# Coffee Beans Processing - Value Stream Mapping (Lean Methodology)
 
 ## Overview
 
