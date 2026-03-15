@@ -1,8 +1,8 @@
-# Coffee Beans Processing - Value Stream Mapping (Lean Methodology)
+# Refining Coffee Processing - Value Stream Mapping (Lean Methodology)
 
 ## Overview
 
-This project focuses on analyzing and improving the operational efficiency of a coffee beans processing company by applying Lean Manufacturing principles, specifically Value Stream Mapping (VSM).
+This project focuses on analyzing and improving the operational efficiency of a refining coffee processing by applying Lean Manufacturing principles, specifically Value Stream Mapping (VSM).
 
 The goal of this analysis was to identify waste, delays, and bottlenecks in the production flow that impact the company’s ability to meet customer demand. By mapping the current state of the production process, I evaluated value-added vs non-value-added activities, calculated key performance metrics, and identified improvement opportunities.
 
