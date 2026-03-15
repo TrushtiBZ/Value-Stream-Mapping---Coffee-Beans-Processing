@@ -1,4 +1,4 @@
-# Refining Coffee Processing - Value Stream Mapping (Lean Methodology)
+# Refining Coffee - Value Stream Mapping (Lean Methodology)
 
 ## Overview
 
