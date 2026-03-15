@@ -2,9 +2,17 @@
 
 ## Overview
 
-This project focuses on analyzing and improving the operational efficiency of a refining coffee processing by applying Lean Manufacturing principles, specifically Value Stream Mapping (VSM).
+This project demonstrates how Lean manufacturing techniques can be applied to analyze and improve operational efficiency in a production environment.
 
-The goal of this analysis was to identify waste, delays, and bottlenecks in the production flow that impact the company’s ability to meet customer demand. By mapping the current state of the production process, I evaluated value-added vs non-value-added activities, calculated key performance metrics, and identified improvement opportunities.
+I analyzed the end-to-end workflow of a coffee beans processing company, mapping each stage from raw beans processing to final packaging and shipping. Using Value Stream Mapping (VSM), I evaluated the flow of materials and information to identify waste, delays, and bottlenecks that were affecting production capacity and the company’s ability to meet customer demand.
+
+The analysis involved calculating cycle time, setup time, processing time, throughput, takt time, production lead time, and process cycle efficiency across all stages of the manufacturing line.
+
+Through this analysis, I identified the primary bottleneck in the Hulling process, which significantly limited the overall throughput of the system. I also discovered that while the total lead time was 9.5 days, the actual value-adding processing time was only 535 seconds, highlighting a large amount of non-value-added waiting and inventory time in the system.
+
+Based on these insights, I proposed several Lean improvement opportunities, including balancing process capacity, reducing setup times, and implementing better production flow strategies.
+
+This project showcases my ability to apply business analysis, process mapping, operational analytics, and Lean methodology to identify inefficiencies and recommend data-driven improvements in a manufacturing environment.
 
 ## Objectives
 
